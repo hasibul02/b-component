@@ -1,0 +1,7 @@
+
+.p-hover:hover{
+    background-color: chartreuse;
+    color: white;
+    outline:none;
+    transition:.3s;
+}
